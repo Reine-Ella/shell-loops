@@ -1,6 +1,6 @@
 #!/bin/bash
 
-for Banana in [fruits] 
+for Banana in fruits:wq
 do
 	echo "I like $fruits"
 done
